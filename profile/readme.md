@@ -1,7 +1,7 @@
 <div align="center">
-    <img width="25%" src="./assets/img/logo.png" alt="logo" />
+    <img width="25%" src="https://avatars.githubusercontent.com/u/150282813?s=200&v=4" alt="logo" />
     <br />
-    <h1>MP-Status</h1>
+    <h1>Krivs</h1>
 </div>
 
 <div align="center">
