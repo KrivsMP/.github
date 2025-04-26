@@ -1,11 +1,13 @@
 <div align="center">
-    <img width="25%" src="https://avatars.githubusercontent.com/u/150282813?s=200&v=4" alt="logo" />
-    <br />
-    <h1>Krivs</h1>
+
+![Logo](../assets/img/docs.png)
+
 </div>
 
-<div align="center">
-    <p>
-        A platform for business problems with the solution and optimization of analytics and monitoring of data from third-party systems. Internal system for training and analytics.
-    </p>
-</div>
+<h1 align="center">KrivsMP</h1>
+
+A business platform for a company's internal ecosystem aimed at developing, automating and simplifying work processes in various departments.
+
+The system provides monitoring, analytics and automation of work with data of different formats, and also acts as a knowledge base with the ability to analyze experience through artificial intelligence technologies. The development of personalized solutions in UX/UI-design with a focus on accessibility (A11Y) is envisaged.
+
+The platform is designed to improve the efficiency of business processes, user experience and compliance with modern development standards.
