@@ -1,10 +1,7 @@
 <div align="center">
-
-![Logo](../assets/img/docs.png)
-
+	<img src="../assets/images/docs.png" width="260" height="260" alt="logo" />
+	<h1>KrivsMP</h1>
 </div>
-
-<h1 align="center">KrivsMP</h1>
 
 A business platform for a company's internal ecosystem aimed at developing, automating and simplifying work processes in various departments.
 

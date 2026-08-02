@@ -1,13 +1,11 @@
-<h1 align="center">KrivsMP</h1>
+# KrivsMP
 
-- [Contact](mailto:holdesher@ro.ru)
-- [License](./.github/LICENSE)
-- [Contributing](./.github/CONTRIBUTING.md)
+## Context
 
-<!--
-Бизнес-платформа для внутренней экосистемы компании, направленная на развитие, автоматизацию и упрощение рабочих процессов в различных отделах.
-
-Система обеспечивает мониторинг, аналитику и автоматизацию работы с данными разных форматов, а также выступает как база знаний с возможностью анализа опыта через технологии искусственного интеллекта. Предусмотрена разработка персонализированных решений в UX/UI-дизайне с акцентом на доступность (A11Y).
-
-Платформа создана для повышения эффективности бизнес-процессов, удобства пользователей и соответствия современным стандартам разработки.
--->
+- [License](.github/LICENSE)
+- [Funding](.github/FUNDING.yml)
+- [Security](.github/SECURITY.md)
+- [ChangeLog](.github/CHANGELOG.md)
+- [CodeOwners](.github/CODEOWNERS)
+- [Contributing](.github/CONTRIBUTING.md)
+- [CodeOfConduct](.github/CODE_OF_CONDUCT.md)
