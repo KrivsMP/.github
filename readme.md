@@ -3,8 +3,6 @@
 	<p>📖 Public company details and essential resources</p>
 </div>
 
----
-
 A public website, personal workspace, and API are brought together into one platform for internal services, data processing, and business process automation.
 
 ## Contacts
