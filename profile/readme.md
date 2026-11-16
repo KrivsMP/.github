@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="../assets/images/docs.jpg" width="240" alt="KrivsMP" />
+	<img src="../assets/icons/docs.jpg" width="240" alt="KrivsMP" />
 	<h1>KrivsMP</h1>
 </div>
 
@@ -11,4 +11,4 @@ Our interfaces are developed as personalized UX/UI solutions with a focus on acc
 
 ## Contacts
 
-Learn more at [krivs.ru](https://krivs.ru) or get in touch via [Email](mailto:info@krivs.ru).
+Learn more at [krivs.ru](https://krivs.ru) or get in touch via [email](mailto:info@krivs.ru).

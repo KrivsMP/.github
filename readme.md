@@ -7,8 +7,8 @@ A public website, personal workspace, and API are brought together into one plat
 
 ## Contacts
 
+- [Site](https://krivs.ru)
 - [Email](mailto:info@krivs.ru)
-- [Website](https://krivs.ru)
 
 ## Context
 
