@@ -1,10 +1,16 @@
 <div align="center">
-	<img src="../assets/images/docs.png" width="260" height="260" alt="logo" />
+	<img src="../assets/images/docs.jpg" width="240" alt="KrivsMP" />
 	<h1>KrivsMP</h1>
 </div>
 
-A business platform for a company's internal ecosystem aimed at developing, automating and simplifying work processes in various departments.
+---
 
-The system provides monitoring, analytics and automation of work with data of different formats, and also acts as a knowledge base with the ability to analyze experience through artificial intelligence technologies. The development of personalized solutions in UX/UI-design with a focus on accessibility (A11Y) is envisaged.
+A business platform for automating, analyzing, and simplifying workflows across company departments.
 
-The platform is designed to improve the efficiency of business processes, user experience and compliance with modern development standards.
+The platform combines monitoring, analytics, and data automation with a knowledge base for analyzing accumulated experience using AI. It is designed to connect teams, make operational data easier to use, and support the continuous improvement of internal processes.
+
+Our interfaces are developed as personalized UX/UI solutions with a focus on accessibility (A11Y), clarity, and practical everyday use.
+
+## Contacts
+
+Learn more at [krivs.ru](https://krivs.ru) or get in touch via [Email](mailto:info@krivs.ru).
